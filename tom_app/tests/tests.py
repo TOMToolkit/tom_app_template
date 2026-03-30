@@ -1,7 +1,6 @@
 from django.test import TestCase
 
 
-
 class TestApp(TestCase):
     """NOTE: to run these tests in your venv: python ./{{tom_app}}/tests/run_tests.py"""
 
