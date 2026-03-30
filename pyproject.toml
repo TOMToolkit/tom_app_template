@@ -5,7 +5,7 @@ authors = [
     {name = "Your Name",email = "you@example.com"}
 ]
 maintainers = [
-    {name = "Joey Chatelain", email = "jchate6@gmail.com"},
+    {name = "Joey Chatelain", email = "jchate6@lco.global"},
     {name = "William Lindstrom", email = "llindstrom@lco.global"},
     {name = "Rachel Street", email = "rstreet@lco.global"},
 ]
