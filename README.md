@@ -63,3 +63,21 @@ Replace ``tom_app`` with your app's name in the following places
    * line 39
    * line 54 (also, your code to be included in the coverage check)
 
+### Delete this Readme and replace it with something like the following:
+
+# Your App Description
+
+Description here
+
+## Installation
+
+Install the module into your TOM environment:
+
+    pip install tom-app
+
+Include the app in your `INSTALLED_APPS` in your TOM's `settings.py`:
+
+    INSTALLED_APPS = [
+        ...
+        'tom_app',
+    ]
