@@ -60,6 +60,7 @@ Replace ``tom_app`` with your app's name in the following places
  * .github.workflows.run-canary-tests
    * line 20
  * .github.workflows.run-tests
-   * line 39
-   * line 54 (also, your code to be included in the coverage check)
+   * line 35
+   * line 55
+   * line 70 (also, your code to be included in the coverage check)
 
