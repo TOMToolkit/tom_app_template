@@ -56,7 +56,7 @@ Replace ``tom_app`` with your app's name in the following places
    * Also, fill out the description and authors while here. (line 3-6)
  * .github.workflows.github-release
    * line 28
-   * line 39
+   * line 39 (Be sure to keep dash rather than underscore)
  * .github.workflows.run-canary-tests
    * line 20
  * .github.workflows.run-tests
