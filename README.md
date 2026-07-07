@@ -54,6 +54,7 @@ Replace ``tom_app`` with your app's name in the following places
  * pyproject.toml
    * name (line2)
    * Also, fill out the description and authors while here. (line 3-6)
+   * repository (line 14)
  * .github.workflows.github-release
    * line 28
    * line 39 (Be sure to keep dash rather than underscore)
