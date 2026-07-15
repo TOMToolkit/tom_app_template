@@ -55,6 +55,7 @@ def boot_django():
             'guardian.backends.ObjectPermissionBackend',
         ),
         AUTH_STRATEGY='READ_ONLY',
+        ROOT_URLCONF='tom_common.urls',
         STATIC_URL='/static/',
         STATIC_ROOT=os.path.join(BASE_DIR, '_static'),
         STATICFILES_DIRS=[os.path.join(BASE_DIR, 'static')],
